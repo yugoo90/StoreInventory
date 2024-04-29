@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/StoreInventory_autogen/mocs_compilation.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/build/StoreInventory_autogen/mocs_compilation.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/build/StoreInventory_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/StoreInventory_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/main.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/main.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/main.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/mainwindow.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/mainwindow.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/mainwindow.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/additemdialog.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/additemdialog.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/additemdialog.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/additemdialog.cpp.obj"
+},
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/updateitemdialog.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/updateitemdialog.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/updateitemdialog.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/updateitemdialog.cpp.obj"
+},
+{
+  "directory": "C:/Users/yugoo90/Projects/StoreInventory/build",
+  "command": "C:/MinGW/bin/g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StoreInventory.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/StoreInventory.dir/item.cpp.obj -c C:/Users/yugoo90/Projects/StoreInventory/item.cpp",
+  "file": "C:/Users/yugoo90/Projects/StoreInventory/item.cpp",
+  "output": "CMakeFiles/StoreInventory.dir/item.cpp.obj"
+}
+]

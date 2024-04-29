@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+afa0f916faf78bd5b719fbd44721d0b5 CMakeFiles/StoreInventory_autogen
+afa0f916faf78bd5b719fbd44721d0b5 CMakeFiles/StoreInventory_autogen_timestamp_deps
+bf7a4f9b2d3dd66cf127a0f61cf959f3 StoreInventory_autogen/timestamp
